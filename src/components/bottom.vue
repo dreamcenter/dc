@@ -1,6 +1,6 @@
 <template>
     <div id="bottom">
-        <div v-for="item in color" :style="{'background-color':item}" :key="item"></div>
+        <div v-for="item in color" :style="{'background-color':item}" :key="item" @click="jump(item)"></div>
     </div>
 </template>
 
@@ -9,6 +9,18 @@ export default {
   data () {
     return {
       color: ['coral', 'aquamarine', 'palegreen', '#FFFF00', 'aqua']
+    }
+  },
+  methods: {
+    jump: function (which) {
+      switch (which) {
+        case 'coral':this.$router.push('/projects'); break
+        case 'aquamarine':this.$router.push('/projects'); break
+        case 'palegreen':this.$router.push('/projects'); break
+        case 'FFFF00':this.$router.push('/projects'); break
+        case 'aqua':this.$router.push('/projects'); break
+        default:;
+      }
     }
   }
 }
