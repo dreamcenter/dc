@@ -13,7 +13,7 @@
                                 <li><a :href="urls.twitter" target="_blank"><img :src="pic.twitter" width="20px"> twitter</a></li>
                             </ul>
                         </td>
-                        <td><a target="_blank" href="urls.mail" style="text-decoration:none;"><img src="pic.mail"></a></td>
+                        <td><a target="_blank" :href="urls.mail" style="text-decoration:none;"><img :src="pic.mail"></a></td>
                         <td><img :src="pic.wx" alt="wx.png" width="140px"></td>
                     </tr>
                     <tr>

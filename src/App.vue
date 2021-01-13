@@ -35,7 +35,7 @@ export default {
   transition:.2s ease-out;
 }
 .paneltrans-enter, .paneltrans-leave-to{
-  margin-left: 1000px;
+  margin-left: 100px;
   opacity: 0;
 }
 </style>
