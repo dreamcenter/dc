@@ -18,7 +18,7 @@ export default {
         case 'aquamarine':this.$router.push('/projects'); break
         case 'palegreen':this.$router.push('/projects'); break
         case 'FFFF00':this.$router.push('/projects'); break
-        case 'aqua':this.$router.push('/projects'); break
+        case 'aqua':this.$router.push('/more'); break
         default:;
       }
     }

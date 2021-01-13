@@ -12,7 +12,6 @@ import Vue from 'vue'
 import mainpanel from '../components/mainpanel'
 Vue.component('mainpanel', mainpanel)
 export default {
-  components: { mainpanel }
 
 }
 </script>

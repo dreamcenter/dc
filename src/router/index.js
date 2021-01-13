@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import home from '../views/home.vue'
 import projects from '../views/projects.vue'
+import more from '../views/more.vue'
 
 Vue.use(VueRouter)
 
@@ -13,6 +14,10 @@ const routes = [
   {
     path: '/projects',
     component: projects
+  },
+  {
+    path: '/more',
+    component: more
   },
   {
     path: '*',
