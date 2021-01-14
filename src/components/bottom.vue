@@ -14,11 +14,11 @@ export default {
   methods: {
     jump: function (which) {
       switch (which) {
-        case 'coral':this.$router.push('/projects'); break
-        case 'aquamarine':this.$router.push('/todo'); break
-        case 'palegreen':this.$router.push('/todo'); break
-        case '#FFFF00':this.$router.push('/todo'); break
-        case 'aqua':this.$router.push('/more'); break
+        case 'coral':this.$router.push('/projects').catch(res => res); break
+        case 'aquamarine':this.$router.push('/todo').catch(res => res); break
+        case 'palegreen':this.$router.push('/todo').catch(res => res); break
+        case '#FFFF00':this.$router.push('/todo').catch(res => res); break
+        case 'aqua':this.$router.push('/more').catch(res => res); break
         default:;
       }
     }
