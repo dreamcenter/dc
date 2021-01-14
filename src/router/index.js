@@ -2,7 +2,9 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import home from '../views/home.vue'
 import projects from '../views/projects.vue'
-import todo from '../views/todo.vue'
+import acgn from '../views/acgn.vue'
+import blogs from '../views/blogs.vue'
+import stars from '../views/stars.vue'
 import more from '../views/more.vue'
 
 Vue.use(VueRouter)
@@ -17,8 +19,16 @@ const routes = [
     component: projects
   },
   {
-    path: '/todo',
-    component: todo
+    path: '/acgn',
+    component: acgn
+  },
+  {
+    path: '/blogs',
+    component: blogs
+  },
+  {
+    path: '/stars',
+    component: stars
   },
   {
     path: '/more',

@@ -15,9 +15,9 @@ export default {
     jump: function (which) {
       switch (which) {
         case 'coral':this.$router.push('/projects').catch(res => res); break
-        case 'aquamarine':this.$router.push('/todo').catch(res => res); break
-        case 'palegreen':this.$router.push('/todo').catch(res => res); break
-        case '#FFFF00':this.$router.push('/todo').catch(res => res); break
+        case 'aquamarine':this.$router.push('/blogs').catch(res => res); break
+        case 'palegreen':this.$router.push('/acgn').catch(res => res); break
+        case '#FFFF00':this.$router.push('/stars').catch(res => res); break
         case 'aqua':this.$router.push('/more').catch(res => res); break
         default:;
       }

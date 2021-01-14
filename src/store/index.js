@@ -5,8 +5,12 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
+    showbasic: true
   },
   mutations: {
+    changebasic (state, data) {
+      state.showbasic = data
+    }
   },
   actions: {
   },

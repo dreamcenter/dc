@@ -39,7 +39,7 @@ export default {
   },
   mounted () {
     axios.get('./api/subwebs.json').then(res => {
-      console.log(res.data.data)
+      // console.log(res.data.data)
       this.datas = res.data.data
     }).catch(err => {
       console.log(err)

@@ -1,10 +1,10 @@
 <template>
-  <div id="app" @contextmenu.prevent="jumptohome">
+  <div id="app" @contextmenu.prevent="jumptohome" :style="{'background-image':showbk}">
     <transition name="paneltrans" mode="out-in">
       <router-view></router-view>
     </transition>
-    <music></music>
-    <bottom></bottom>
+    <music v-show="this.$store.state.showbasic"></music>
+    <bottom v-if="this.$store.state.showbasic"></bottom>
   </div>
 </template>
 
@@ -15,9 +15,16 @@ import bottom from './components/bottom'
 Vue.component('bottom', bottom)
 Vue.component('music', music)
 export default {
+  computed: {
+    showbk () {
+      return this.$store.state.showbasic ? 'url(https://pic.yupoo.com/dreamcenter/1c4ce61e/25ec3be1.jpeg)' : ''
+    }
+  },
   methods: {
     jumptohome: function () {
-      this.$router.push('/home').catch(err => err)
+      if (this.$store.state.showbasic) {
+        this.$router.push('/home').catch(err => err)
+      }
     }
   }
 }
@@ -27,7 +34,6 @@ export default {
 #app{
   width: 100%;
   height: 100%;
-  background-image: url(https://pic.yupoo.com/dreamcenter/1c4ce61e/25ec3be1.jpeg);
   background-size: cover;
   overflow: hidden;
 }
