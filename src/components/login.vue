@@ -41,6 +41,7 @@ export default {
           this.sec = ''
           this.msg = '档案不匹配'
         } else {
+          this.$emit('access')
           alert('匹配成功!')
         }
       }).catch(err => {

@@ -1,7 +1,7 @@
 <template>
   <div @click="clkk" id="acgn_banner" :style="{'background-image':bk}">
     <transition name="login">
-      <login v-if="show"></login>
+      <login v-if="show" @access="changeshow"></login>
     </transition>
   </div>
 </template>
@@ -34,6 +34,9 @@ export default {
         this.cnt = (this.cnt + 1) % 20
         clk(this.cnt)
       }
+    },
+    changeshow () {
+      this.show = false
     }
   }
 }

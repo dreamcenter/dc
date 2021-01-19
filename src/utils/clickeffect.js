@@ -1,6 +1,6 @@
 export function clk (clickcnt) {
   var $html = document.getElementsByTagName('html')[0]
-  var $body = document.getElementsByTagName('body')[0]
+  var $body = document.getElementById('app')
   $html.onclick = function (e) {
     var $elem = document.createElement('b')
 
