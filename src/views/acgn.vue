@@ -3,20 +3,25 @@
     <transition name="login">
       <login v-if="show" @access="changeshow"></login>
     </transition>
+    <lihui v-if="token"></lihui>
   </div>
 </template>
 
 <script>
 import Vue from 'vue'
 import login from '../components/login'
+import lihui from '../components/lihui'
 import { clk } from '../utils/clickeffect'
 Vue.component('login', login)
+Vue.component('lihui', lihui)
 export default {
   data () {
     return {
       bk: 'url(./img/acgn/bk.jpeg)',
       cnt: 0,
-      show: false
+      show: false,
+      // token: true
+      token: false
     }
   },
   mounted () {
@@ -27,7 +32,7 @@ export default {
   },
   methods: {
     clkk (ev) {
-      if (ev.x >= 1080 && ev.x <= 1125 && ev.y >= 385 && ev.y <= 430) {
+      if (ev.x >= 1080 && ev.x <= 1125 && ev.y >= 385 && ev.y <= 430 && !this.token) {
         this.show = true
         console.log('二次元大门已打开!')
       } else {
@@ -37,6 +42,7 @@ export default {
     },
     changeshow () {
       this.show = false
+      this.token = true
     }
   }
 }
