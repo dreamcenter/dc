@@ -20,8 +20,8 @@ export default {
       bk: 'url(./img/acgn/bk.jpeg)',
       cnt: 0,
       show: false,
-      // token: true
-      token: false
+      token: true
+      // token: false
     }
   },
   mounted () {
@@ -36,7 +36,11 @@ export default {
         this.show = true
         console.log('二次元大门已打开!')
       } else {
-        this.cnt = (this.cnt + 1) % 20
+        if (this.token) {
+          this.cnt = 19
+        } else {
+          this.cnt = (this.cnt + 1) % 20
+        }
         clk(this.cnt)
       }
     },
@@ -56,6 +60,7 @@ export default {
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
+    position: relative;
   }
   .login-enter-active, .login-leave-active{
     transition:.2s ease-in-out;

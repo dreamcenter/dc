@@ -42,7 +42,8 @@ export default {
           this.msg = '档案不匹配'
         } else {
           this.$emit('access')
-          alert('匹配成功!')
+          // alert('匹配成功!')
+          console.log('档案记录成功')
         }
       }).catch(err => {
         console.log(err)

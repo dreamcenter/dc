@@ -12,6 +12,7 @@
 import Vue from 'vue'
 import music from './components/music'
 import bottom from './components/bottom'
+import { print } from './utils/justforfun'
 Vue.component('bottom', bottom)
 Vue.component('music', music)
 export default {
@@ -26,6 +27,9 @@ export default {
         this.$router.push('/home').catch(err => err)
       }
     }
+  },
+  mounted () {
+    print()
   }
 }
 </script>
@@ -36,6 +40,7 @@ export default {
   height: 100%;
   background-size: cover;
   overflow: hidden;
+  position: relative;
 }
 .paneltrans-enter-active, .paneltrans-leave-active{
   transition:.2s ease-out;
