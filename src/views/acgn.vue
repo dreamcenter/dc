@@ -3,7 +3,7 @@
     <transition name="login">
       <login v-if="show" @access="changeshow"></login>
     </transition>
-    <transition name="show">
+    <transition name="show" mode="out-in">
       <router-view></router-view>
     </transition>
     <tab></tab>

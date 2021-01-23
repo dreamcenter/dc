@@ -7,7 +7,7 @@
   </div>
   <div v-else>
     <!-- 待更换 -->
-    <div style="font-size:100px;color:white;">加载中...</div>
+    <p>加载中...</p>
   </div>
 </template>
 
