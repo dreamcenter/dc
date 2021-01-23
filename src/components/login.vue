@@ -33,7 +33,7 @@ export default {
   },
   methods: {
     scan () {
-      axios.get('./api/userdata.json').then(res => {
+      axios.get('/api/userdata.json').then(res => {
         var result = loginscan(res.data.datas, this.id, this.sec)
         if (result === 0) {
           this.id = '档案未找到'

@@ -47,10 +47,10 @@ export default {
       pic: {
         qq: 'http://pic.yupoo.com/dreamcenter/0d4ec91b/74e8aa00.jpg',
         wx: 'http://pic.yupoo.com/dreamcenter/d5c10c8d/29763ecf.jpeg',
-        github: './img/github.png',
-        cnblogs: './img/blog.png',
+        github: '/img/github.png',
+        cnblogs: '/img/blog.png',
         bilibili: 'https://space.bilibili.com/favicon.ico',
-        twitter: './img/twitter.png',
+        twitter: '/img/twitter.png',
         mail: 'http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png'
       },
       urls: {

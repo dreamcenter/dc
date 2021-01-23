@@ -20,7 +20,21 @@ const routes = [
   },
   {
     path: '/acgn',
-    component: acgn
+    component: acgn,
+    children: [
+      {
+        path: 'lihui',
+        component: () => import('../views/acgn/lihui.vue')
+      },
+      {
+        path: 'base',
+        component: () => import('../views/acgn/base.vue')
+      },
+      {
+        path: '',
+        redirect: '/acgn/lihui'
+      }
+    ]
   },
   {
     path: '/blogs',

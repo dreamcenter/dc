@@ -3,21 +3,24 @@
     <transition name="login">
       <login v-if="show" @access="changeshow"></login>
     </transition>
-    <lihui v-if="token"></lihui>
+    <transition name="show">
+      <router-view></router-view>
+    </transition>
+    <tab></tab>
   </div>
 </template>
 
 <script>
 import Vue from 'vue'
 import login from '../components/login'
-import lihui from '../components/lihui'
+import tab from '../components/tab.vue'
 import { clk } from '../utils/clickeffect'
 Vue.component('login', login)
-Vue.component('lihui', lihui)
+Vue.component('tab', tab)
 export default {
   data () {
     return {
-      bk: 'url(./img/acgn/bk.jpeg)',
+      bk: 'url(/img/acgn/bk.jpeg)',
       cnt: 0,
       show: false,
       token: true
@@ -66,6 +69,12 @@ export default {
     transition:.2s ease-in-out;
   }
   .login-enter,.login-leave-to{
+    opacity: 0;
+  }
+  .show-enter-active, .show-leave-active{
+    transition:.1s ease-in;
+  }
+  .show-enter,.show-leave-to{
     opacity: 0;
   }
 </style>
