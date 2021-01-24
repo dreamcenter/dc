@@ -6,7 +6,6 @@
     <audio v-for="item in sound" :key="item" :src="item" ref="audio"></audio>
   </div>
   <div v-else>
-    <!-- 待更换 -->
     <p>加载中...</p>
   </div>
 </template>
@@ -60,7 +59,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 p{
   width: 560px;
   font-family: '仿宋';

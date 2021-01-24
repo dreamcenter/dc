@@ -1,5 +1,37 @@
 {
   "datas":{
+    "nav":[
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"",
+        "href":"",
+        "content":"黑色|486"
+      },
+      {
+        "usual":1,"hso":0,"wall":0,"stopped":0,
+        "title":"",
+        "href":"",
+        "content":"红色|ntr"
+      },
+      {
+        "usual":0,"hso":1,"wall":0,"stopped":0,
+        "title":"",
+        "href":"",
+        "content":"紫色|禁区"
+      },
+      {
+        "usual":0,"hso":0,"wall":1,"stopped":0,
+        "title":"",
+        "href":"",
+        "content":"下划|结界"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":1,
+        "title":"",
+        "href":"",
+        "content":"中划|死寂"
+      }
+    ],
     "bbs":[
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
@@ -10,19 +42,19 @@
     ],
     "core":[
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"acFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ",
         "href":"https://www.acfun.cn/",
         "content":"acFun"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
         "href":"https://www.bilibili.com/",
         "content":"bilibili"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"吐槽弹幕网 - tucao.one",
         "href":"http://tucao.one/",
         "content":"tucao"
@@ -46,13 +78,13 @@
         "content":"cosz"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"嘀哩嘀哩,这里是兴趣使然的无名小站",
         "href":"https://www.dilidili66.com/",
         "content":"dilidili_#0"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"嘀哩嘀哩,这里是兴趣使然的无名小站",
         "href":"http://dilidili.online/",
         "content":"dilidili_#1"
@@ -64,7 +96,7 @@
         "content":"dilidili_#2"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"Get Your FREE PASS!",
         "href":"http://ehentai.org/",
         "content":"ehentai"
@@ -82,19 +114,19 @@
         "content":"ebb"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"Hentai Manga, Anime, Games and Comics - FAKKU",
         "href":"https://store.fakku.net",
         "content":"fakku"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":1,
         "title":"",
         "href":"http://www.fuliqu.com/pic/ns/",
         "content":"fuliqu"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"Gelbooru | Anime and Hentai Imageboard",
         "href":"https://gelbooru.com/",
         "content":"gelbooru"
@@ -106,31 +138,31 @@
         "content":"jiligame"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"和邪社 – 二次元观察 ACG生活",
         "href":"https://www.hexieshe.cn/",
         "content":"邪社"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":1,"stopped":0,
         "title":"",
         "href":"https://www.iwara.tv/",
         "content":"iwara"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"琉璃神社★分享动漫快乐",
         "href":"https://hacg.tw/",
         "content":"琉璃神社"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":0,"stopped":1,
         "title":"爱弹幕 iDanMu.com – 弹幕视频，新番连载，在线动漫，在线漫画，二次元动漫",
         "href":"https://idanmu.at/",
         "content":"idanmu"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"绝对领域 - 绅士从这里开始-J站(´・ω・`)",
         "href":"https://www.jdlingyu.mobi/",
         "content":"jdlingyu"
@@ -142,13 +174,13 @@
         "content":"jiqimao"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":1,"stopped":0,
         "title":"konachan.com - Konachan.com Anime Wallpapers",
         "href":"http://konachan.com/",
         "content":"konachan"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"宅男福利社 - 宅男福利社，专注于分享宅男福利，写真视频，好玩的资源下载等，是宅男就来宅男福利社吧！",
         "href":"http://www.130cp.cn/",
         "content":"里番"
@@ -178,7 +210,7 @@
         "content":"milimili"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":1,"stopped":0,
         "title":"niconico(ニコニコ)",
         "href":"https://www.nicovideo.jp/",
         "content":"niconico"
@@ -190,7 +222,7 @@
         "content":"冰尘"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":1,"stopped":0,
         "title":"插画交流网站[pixiv]",
         "href":"https://www.pixiv.net/",
         "content":"pivix"
@@ -214,13 +246,13 @@
         "content":"dmxixi"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":0,"stopped":1,
         "title":"",
         "href":"https://yande.re/post",
         "content":"萌妹站"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":1,"stopped":0,
         "title":"Zerochan: HQ Anime Image Board",
         "href":"https://www.zerochan.net",
         "content":"同人站"
@@ -236,7 +268,7 @@
     ],
     "side":[
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"风车动漫",
         "href":"http://www.fengchedm.com/",
         "content":"风车动漫"
@@ -248,19 +280,19 @@
         "content":"半次元"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"Bangumi 番组计划",
         "href":"https://bangumi.tv/",
         "content":"番组计划"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"樱花动漫－专注动漫的门户网站",
         "href":"http://www.imomoe.in/",
         "content":"樱花动漫"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"混沌时空",
         "href":"http://hundun.in/",
         "content":"混沌时空"
@@ -278,13 +310,13 @@
         "content":"动漫之家"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"古风漫画网专注古风漫画，言情漫画，少女爱情等类型的漫画。",
         "href":"古风漫画网专注古风漫画，言情漫画，少女爱情等类型的漫画。",
         "content":"古风漫画网"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"萌即是正义！一名热爱acg的前端设计师的小站！",
         "href":"萌即是正义！一名热爱acg的前端设计师的小站！",
         "content":"维基萌"
@@ -334,13 +366,13 @@
     ],
     "sup":[
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"ACG大厅",
         "href":"http://bbs.005.tv/",
         "content":"ACG大厅"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"萌娘百科",
         "href":"https://zh.moegirl.org/Mainpage",
         "content":"萌娘百科"
@@ -384,25 +416,25 @@
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"哔哩哔哩投稿视频、弹幕、音乐下载，更换弹幕播放器，简明现代黑科技",
-        "href":"哔哩哔哩投稿视频、弹幕、音乐下载，更换弹幕播放器，简明现代黑科技",
+        "href":"https://www.biliplus.com/",
         "content":"biliplus"
       }
     ],
     "game":[
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"喵窝☆由依喵的乱七八糟的资源窝www - galgame下载|汉化游戏|BDMV动画",
         "href":"https://www.nyanvo.com/",
         "content":"喵窝"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"Gal領域 &#8211; 熱衷於GalCG資源分享站點",
         "href":"https://www.galcg.com/",
         "content":"Gal领域"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"galgame – 叽哩叽哩游戏网ACG（G站）",
         "href":"https://www.jiligame.com/category/hexinyouxi",
         "content":"叽哩叽哩游戏网"
