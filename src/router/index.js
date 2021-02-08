@@ -27,6 +27,10 @@ const routes = [
         component: () => import('../views/acgn/lihui.vue')
       },
       {
+        path: 'found',
+        component: () => import('../views/acgn/found.vue')
+      },
+      {
         path: 'base',
         component: () => import('../views/acgn/base.vue')
       },

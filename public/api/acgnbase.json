@@ -60,7 +60,7 @@
         "content":"tucao"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":0,"stopped":1,
         "title":"c站-clicli弹幕网_(⁄•⁄ω⁄•⁄) 社保~ clicli.me",
         "href":"https://www.clicli.me/",
         "content":"clicli_#1"
@@ -78,7 +78,7 @@
         "content":"cosz"
       },
       {
-        "usual":1,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":1,
         "title":"嘀哩嘀哩,这里是兴趣使然的无名小站",
         "href":"https://www.dilidili66.com/",
         "content":"dilidili_#0"
@@ -96,7 +96,7 @@
         "content":"dilidili_#2"
       },
       {
-        "usual":0,"hso":1,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":0,"stopped":1,
         "title":"Get Your FREE PASS!",
         "href":"http://ehentai.org/",
         "content":"ehentai"
@@ -116,7 +116,7 @@
       {
         "usual":0,"hso":1,"wall":0,"stopped":0,
         "title":"Hentai Manga, Anime, Games and Comics - FAKKU",
-        "href":"https://store.fakku.net",
+        "href":"https://www.fakku.net/",
         "content":"fakku"
       },
       {
@@ -151,14 +151,14 @@
       },
       {
         "usual":0,"hso":1,"wall":0,"stopped":0,
-        "title":"琉璃神社★分享动漫快乐",
-        "href":"https://hacg.tw/",
+        "title":"琉璃神社★分享动漫快乐(hacg.la)",
+        "href":"https://llss.fan/",
         "content":"琉璃神社"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":1,
+        "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"爱弹幕 iDanMu.com – 弹幕视频，新番连载，在线动漫，在线漫画，二次元动漫",
-        "href":"https://idanmu.at/",
+        "href":"https://idanmu.im/",
         "content":"idanmu"
       },
       {
@@ -168,22 +168,22 @@
         "content":"jdlingyu"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":0,"stopped":1,
         "title":"动漫频道-海外动漫视频网站_海外最新动漫视频_海外新番动漫",
         "href":"http://jiqimao.tv/cate/2/",
         "content":"jiqimao"
       },
       {
-        "usual":0,"hso":0,"wall":1,"stopped":0,
+        "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"konachan.com - Konachan.com Anime Wallpapers",
         "href":"http://konachan.com/",
         "content":"konachan"
       },
       {
-        "usual":0,"hso":1,"wall":0,"stopped":0,
+        "usual":0,"hso":1,"wall":1,"stopped":0,
         "title":"宅男福利社 - 宅男福利社，专注于分享宅男福利，写真视频，好玩的资源下载等，是宅男就来宅男福利社吧！",
         "href":"http://www.130cp.cn/",
-        "content":"里番"
+        "content":"宅福"
       },
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
@@ -200,8 +200,14 @@
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"M站_哔咪哔咪,这里是兴趣使然的无名小站_bimibimi",
-        "href":"http://www.bimibimi.tv/",
+        "href":"http://www.bimiacg.com/",
         "content":"bimibimi"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"M站_哔咪哔咪,这里是兴趣使然的无名小站_bimibimi",
+        "href":"http://bimibimi.cc/",
+        "content":"bimibimi_#1"
       },
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
@@ -228,6 +234,25 @@
         "content":"pivix"
       },
       {
+        "usual":1,"hso":0,"wall":0,"stopped":0,
+        "title":"P站_噼哩噼哩,这里是兴趣使然的动漫小站_PiliPili",
+        "href":"http://pilipili.cm/",
+        "content":"pilipili"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"P站_噼哩噼哩,这里是兴趣使然的动漫小站_PiliPili",
+        "href":"http://pilipili.cx/",
+        "content":"pilipili_#1"
+      },
+      
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"PILIACG动漫社区，是一家acg在线视频小站，又称P站，天下漫友是一家哦！来玩趴(/≧▽≦)/。",
+        "href":"https://piliacg.cn/",
+        "content":"piliacg"
+      },
+      {
         "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"动漫 - pilipali",
         "href":"http://pilipali.cc/vod/show/area/%E6%97%A5%E6%9C%AC/id/4.html",
@@ -240,15 +265,15 @@
         "content":"SauceNAO"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":0,"stopped":1,
         "title":"动漫西西 - 网盘在线观看、动画下载x站",
         "href":"http://www.dmxixi.com/",
         "content":"dmxixi"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":1,
+        "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"",
-        "href":"https://yande.re/post",
+        "href":"https://yande.in/post",
         "content":"萌妹站"
       },
       {
@@ -260,10 +285,16 @@
     ],
     "pri":[
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":0,"stopped":1,
         "title":"迷子",
         "href":"https://www.maigo.ml/",
         "content":"迷子"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"「 动漫• 二次元 • ACG • 萌导航」人生本来很简单，只要快乐就好。",
+        "href":"http://www.cilicili.cc/",
+        "content":"呲哩呲哩"
       }
     ],
     "side":[
@@ -288,8 +319,14 @@
       {
         "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"樱花动漫－专注动漫的门户网站",
-        "href":"http://www.imomoe.in/",
+        "href":"http://www.imomoe.ai/",
         "content":"樱花动漫"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"bilibili相簿是国内优秀的图片社交平台，面向众多画师，coser以及ACG爱好者。海量优质图库等你来探索！",
+        "href":"https://h.bilibili.com/",
+        "content":"哔哩相簿"
       },
       {
         "usual":1,"hso":0,"wall":0,"stopped":0,
@@ -300,8 +337,14 @@
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"最ACG网-ACG资源分享基地",
-        "href":"https://zuiacg.moe/",
+        "href":"https://zuiacg.com/",
         "content":"zuiACG"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"最ACG网-ACG资源分享基地",
+        "href":"http://www.aibenzi.moe/",
+        "content":"zuiACG_#1"
       },
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
@@ -312,13 +355,13 @@
       {
         "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"古风漫画网专注古风漫画，言情漫画，少女爱情等类型的漫画。",
-        "href":"古风漫画网专注古风漫画，言情漫画，少女爱情等类型的漫画。",
+        "href":"http://www.gufengmh8.com/",
         "content":"古风漫画网"
       },
       {
         "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"萌即是正义！一名热爱acg的前端设计师的小站！",
-        "href":"萌即是正义！一名热爱acg的前端设计师的小站！",
+        "href":"https://www.wikimoe.com/",
         "content":"维基萌"
       },
       {
@@ -329,8 +372,14 @@
       },
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"二次元壁纸图片_二次元高清桌面壁纸_二次元图片素材",
+        "href":"http://www.win4000.com/zt/erciyuan.html",
+        "content":"二次元壁纸"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"哔哩哔哩音乐",
-        "href":"https://www.bilibili.com/audio/mycollection/3650369",
+        "href":"https://www.bilibili.com/audio/mycollection",
         "content":"哔哩哔哩音乐"
       },
       {
@@ -366,7 +415,7 @@
     ],
     "sup":[
       {
-        "usual":1,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":1,
         "title":"ACG大厅",
         "href":"http://bbs.005.tv/",
         "content":"ACG大厅"
@@ -384,7 +433,7 @@
         "content":"漫资讯"
       },
       {
-        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "usual":0,"hso":0,"wall":0,"stopped":1,
         "title":"ACG狗屋",
         "href":"http://www.acgdoge.net/",
         "content":"ACG狗屋"
@@ -399,7 +448,13 @@
         "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"b站封面提取_bilibili封面提取_av号封面提取",
         "href":"http://www.galmoe.com/",
-        "content":"bilibili封面提取"
+        "content":"bili封面提取"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"bilibili封面提取 bilibili手机封面在线提取 哔哩哔哩封面提取 b站封面提取 封面提取_封面获取_b站封面_bilibili封面_BV号封面",
+        "href":"http://b.qiuyeye.cn/index.html",
+        "content":"bili封面提取_#1"
       },
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
@@ -411,7 +466,7 @@
         "usual":0,"hso":0,"wall":0,"stopped":0,
         "title":"bilibili封面提取",
         "href":"https://bilicover.magecorn.com/",
-        "content":"bilibili封面提取"
+        "content":"bili封面提取_#2"
       },
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
@@ -422,7 +477,7 @@
     ],
     "game":[
       {
-        "usual":1,"hso":0,"wall":0,"stopped":0,
+        "usual":1,"hso":0,"wall":0,"stopped":1,
         "title":"喵窝☆由依喵的乱七八糟的资源窝www - galgame下载|汉化游戏|BDMV动画",
         "href":"https://www.nyanvo.com/",
         "content":"喵窝"
