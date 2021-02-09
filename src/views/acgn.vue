@@ -1,10 +1,12 @@
 <template>
-  <div @click="clkk" id="acgn_banner" :style="{'background-image':bk}">
+  <div @click="clkk" id="acgn_banner" :style="{'background-image':bk}" onselectstart = "return false">
     <transition name="login">
       <login v-if="show" @access="changeshow"></login>
     </transition>
     <transition name="show" mode="out-in">
-      <router-view></router-view>
+      <keep-alive>
+        <router-view></router-view>
+      </keep-alive>
     </transition>
     <tab></tab>
   </div>

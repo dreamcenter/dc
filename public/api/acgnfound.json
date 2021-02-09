@@ -1,0 +1,60 @@
+[
+  {
+    "auto": false,"hand":false,"label": "acfun",
+    "href": "https://www.acfun.cn/search?keyword="
+  },{
+    "auto": false,"hand":false,"label": "bilibili",
+    "href": "https://search.bilibili.com/all?keyword="
+  },{
+    "auto": false,"hand":false,"label": "tucao",
+    "href": "https://www.tucao.one/index.php?m=search&c=index&a=init2&catid=24&q="
+  },{
+    "auto": true,"hand":false,"label": "clicli_#2",
+    "href": "http://www.clicli.co/search?key="
+  },{
+    "auto": false,"hand":false,"label": "dilidili_#0",
+    "href": "http://www.dilidili99.com/vodsearch.html?wd="
+  },{
+    "auto": false,"hand":false,"label": "dilidili_#1",
+    "href": "https://dilidili.online/search?q="
+  },{
+    "auto": true,"hand":false,"label": "dilidili_#2",
+    "href": "http://www.dilidili3.com/public/api.php?app=video&do=search&q="
+  },{
+    "auto": true,"hand":false,"label": "ezdmw",
+    "href": "http://www.ezdmw.com/Home/Index/search.html?searchText="
+  },{
+    "auto": false,"hand":true,"label": "edd",
+    "href": "http://www.edddh.com/"
+  },{
+    "auto": false,"hand":true,"label": "jiligame",
+    "href": "https://www.jiligame.com/"
+  },{
+    "auto": false,"hand":true,"label": "idanmu",
+    "href": "https://idanmu.im/"
+  },{
+    "auto": false,"hand":false,"label": "moemoe",
+    "href": "http://www.ymoe.moe/?s="
+  },{
+    "auto": false,"hand":true,"label": "bimibimi",
+    "href": "http://www.bimiacg.com/"
+  },{
+    "auto": false,"hand":true,"label": "milimili",
+    "href": "http://www.milimili.tv/"
+  },{
+    "auto": true,"hand":false,"label": "pilipili",
+    "href": "http://pilipili.cm/index.php/vod/search.html?wd="
+  },{
+    "auto": true,"hand":false,"label": "piliacg",
+    "href": "https://piliacg.cn/?s="
+  },{
+    "auto": false,"hand":true,"label": "pilipali",
+    "href": "http://pilipali.cc/vod/show/area/%E6%97%A5%E6%9C%AC/id/4.html"
+  },{
+    "auto": true,"hand":false,"label": "风车动漫",
+    "href": "http://www.fengchedm.com/common/search.aspx?key="
+  },{
+    "auto": false,"hand":true,"label": "樱花动漫",
+    "href": "http://www.imomoe.ai/list/2.html"
+  }
+]

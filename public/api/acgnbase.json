@@ -78,7 +78,7 @@
         "content":"cosz"
       },
       {
-        "usual":1,"hso":0,"wall":0,"stopped":1,
+        "usual":1,"hso":0,"wall":0,"stopped":0,
         "title":"嘀哩嘀哩,这里是兴趣使然的无名小站",
         "href":"https://www.dilidili66.com/",
         "content":"dilidili_#0"
@@ -106,6 +106,12 @@
         "title":"E站",
         "href":"http://www.ezdmw.com/",
         "content":"ezdmw"
+      },
+      {
+        "usual":0,"hso":0,"wall":0,"stopped":0,
+        "title":"EDD动漫,EDD动画，E站,E动漫,动漫大全",
+        "href":"http://www.edddh.com/",
+        "content":"EDD动漫"
       },
       {
         "usual":0,"hso":0,"wall":0,"stopped":0,
